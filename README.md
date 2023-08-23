@@ -46,6 +46,8 @@ Note this is not a full list, only the ones I want to use debugger
 
 - [basic-calculator.cpp](basic-calculator.cpp)
 
+- [candy-crush.cpp](candy-crush.cpp)
+
 - [check-if-a-number-is-majority-element-in-a-sorted-array.cpp](check-if-a-number-is-majority-element-in-a-sorted-array.cpp)
 
 - [equal-row-and-column-pairs.cpp](equal-row-and-column-pairs.cpp)

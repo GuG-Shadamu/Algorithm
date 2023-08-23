@@ -2,7 +2,7 @@
 # @Author: Tairan Gao
 # @Date:   2023-06-13 00:56:38
 # @Last Modified by:   Tairan Gao
-# @Last Modified time: 2023-08-23 10:22:53
+# @Last Modified time: 2023-08-23 10:31:21
 
 import os
 
@@ -26,12 +26,14 @@ def generate_file_list(folder_path):
     if py_files:
         md_content += "## Python Files\n\n"
         for py_file_name, py_file_path in py_files:
-            md_content += f"- [{py_file_name}]({py_file_path})\n\n"
+            relative_path = py_file_path.split("/")[-1]
+            md_content += f"- [{py_file_name}]({relative_path})\n\n"
 
     if cpp_files:
         md_content += "## C++ Files\n\n"
         for cpp_file_name, cpp_file_path in cpp_files:
-            md_content += f"- [{cpp_file_name}]({cpp_file_path})\n\n"
+            relative_path = cpp_file_path.split("/")[-1]
+            md_content += f"- [{cpp_file_name}]({relative_path})\n\n"
 
     # Add a separator between sections
     if py_files and cpp_files:
@@ -43,7 +45,7 @@ def generate_file_list(folder_path):
 
 
 # Specify the folder path
-folder_path = "./leetcode/"
+folder_path = "/home/tairan-ubuntu/git/Quant-Study/leetcode/"
 
 # Generate the file list
 generate_file_list(folder_path)
