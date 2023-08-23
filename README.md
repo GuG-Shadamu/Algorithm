@@ -20,7 +20,11 @@ Note this is not a full list, only the ones used debugger to solve
 
 - [maximum-performance-of-a-team.py](maximum-performance-of-a-team.py)
 
+- [median-of-two-sorted-arrays.py](median-of-two-sorted-arrays.py)
+
 - [merge-sorted-array.py](merge-sorted-array.py)
+
+- [minimum-time-to-complete-trips.py](minimum-time-to-complete-trips.py)
 
 - [n-queens.py](n-queens.py)
 
