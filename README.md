@@ -1,6 +1,6 @@
 # Leetcode Pracetice Questions in Folder
 
-Note this is not a full list, only the ones I want to use debugger 
+Note this is not a full list, only the ones used debugger to solve 
 
  [My Profile](https://leetcode.com/GuG_Shadamu/) 
 
@@ -77,6 +77,8 @@ Note this is not a full list, only the ones I want to use debugger
 - [next-greater_element-i.cpp](next-greater_element-i.cpp)
 
 - [remove-duplicates-from-sorted-array.cpp](remove-duplicates-from-sorted-array.cpp)
+
+- [reorganize-string.cpp](reorganize-string.cpp)
 
 - [search-a-2d-matrix.cpp](search-a-2d-matrix.cpp)
 

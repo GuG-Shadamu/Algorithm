@@ -2,7 +2,7 @@
 # @Author: Tairan Gao
 # @Date:   2023-06-13 00:56:38
 # @Last Modified by:   Tairan Gao
-# @Last Modified time: 2023-08-23 10:31:21
+# @Last Modified time: 2023-08-23 10:32:36
 
 import os
 
@@ -21,7 +21,7 @@ def generate_file_list(folder_path):
             elif file_name.endswith(".cpp"):
                 cpp_files.append((file_name, file_path))
 
-    md_content = "# Leetcode Pracetice Questions in Folder\n\nNote this is not a full list, only the ones I want to use debugger \n\n [My Profile](https://leetcode.com/GuG_Shadamu/) \n\n"
+    md_content = "# Leetcode Pracetice Questions in Folder\n\nNote this is not a full list, only the ones used debugger to solve \n\n [My Profile](https://leetcode.com/GuG_Shadamu/) \n\n"
 
     if py_files:
         md_content += "## Python Files\n\n"
