@@ -1,8 +1,6 @@
-# Leetcode Pracetice Questions in Folder
+# Algorithm Practice Questions in Folder
 
-Note this is not a full list, only the ones used debugger to solve 
-
- [My Profile](https://leetcode.com/GuG_Shadamu/) 
+Full list in [My Profile](https://leetcode.com/GuG_Shadamu/) 
 
 ## Python Files
 
