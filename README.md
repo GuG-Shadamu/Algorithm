@@ -1,6 +1,8 @@
-# Algorithm Practice Questions in Folder
+# Leetcode Pracetice Questions in Folder
 
-Full list in [My Profile](https://leetcode.com/GuG_Shadamu/) 
+Note this is not a full list, only the ones used debugger to solve 
+
+ [My Profile](https://leetcode.com/GuG_Shadamu/) 
 
 ## Python Files
 
@@ -9,6 +11,8 @@ Full list in [My Profile](https://leetcode.com/GuG_Shadamu/)
 - [combination-sum-ii.py](combination-sum-ii.py)
 
 - [find-median-from-data-stream.py](find-median-from-data-stream.py)
+
+- [interleaving-string.py](interleaving-string.py)
 
 - [letter-combinations-of-a-phone-number.py](letter-combinations-of-a-phone-number.py)
 
@@ -45,6 +49,8 @@ Full list in [My Profile](https://leetcode.com/GuG_Shadamu/)
 ## C++ Files
 
 - [01-matrix.cpp](01-matrix.cpp)
+
+- [715-IP_to_CIDR.cpp](715-IP_to_CIDR.cpp)
 
 - [basic-calculator.cpp](basic-calculator.cpp)
 

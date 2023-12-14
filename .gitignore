@@ -1,0 +1,12 @@
+*
+!*/
+!*.*
+
+
+*/*.ppm
+*.o
+
+
+.history/
+test.py
+temp/

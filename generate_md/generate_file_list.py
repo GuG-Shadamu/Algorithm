@@ -2,7 +2,7 @@
 # @Author: Tairan Gao
 # @Date:   2023-06-13 00:56:38
 # @Last Modified by:   Tairan Gao
-# @Last Modified time: 2023-08-23 10:32:36
+# @Last Modified time: 2023-12-14 15:29:16
 
 import os
 
@@ -45,7 +45,7 @@ def generate_file_list(folder_path):
 
 
 # Specify the folder path
-folder_path = "/home/tairan-ubuntu/git/Quant-Study/leetcode/"
+folder_path = "/home/tairan-ubuntu/git/Algorithm/"
 
 # Generate the file list
 generate_file_list(folder_path)
